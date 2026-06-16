@@ -70,4 +70,15 @@ body{
     transition: 0.3s;
 }
 
+.contenedor-entrada {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.logo {
+    max-width: 200px;
+    height: auto;
+}
 /*PARTE DE SECCIONES---------------------------------------------------------*/
